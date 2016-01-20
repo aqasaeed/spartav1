@@ -220,28 +220,20 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {146340607,163180332,156907037},--Sudo users
     disabled_channels = {},
     realm = {data = 'data/moderation.json'},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
+    about_text = [[SPARTACUS Robot Ver 3.7
+AntispamBot : @tele_sparta
+Our Channel : @sparta_antispam
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@blackhacker666 [Developer]
+@behisins_DANTE_died_wawx [1 S.t admin]
+@MaMadadmindark [2 S.t admin]
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+http://uupload.ir/files/mxct_tele_spartacus.jpg
 
-Our channels
-@teleseedch [English]
 ]],
     help_text = [[
 Commands list :
